@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pifagor App</string>
+    <string name="title">Find \"C\"</string>
+    <string name="result_info">Result:&#160;</string>
+    <string name="img_desc">Pitagora img</string>
+    <string name="input_a">Enter \"a\"</string>
+    <string name="input_b">Enter \"b\"</string>
+    <string name="result">Result</string>
+</resources>
